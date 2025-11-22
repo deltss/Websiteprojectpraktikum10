@@ -10,19 +10,19 @@ interface Slide {
 const HeroSection = () => {
     const slides: Slide[] = [
         {
-            title: "First slide label",
+            title: "PT Batu Bara",
             subtitle: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt, harum",
             imageUrl: "/images/banner_01.JPG",
         },
         {
-            title: "Second slide label",
+            title: "PT Persero. Tbk ",
             subtitle: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-            imageUrl: "/images/banner_02.JPG",
+            imageUrl: "/images/image-6.jpeg",
         },
         {
-            title: "Third slide label",
+            title: "PT indofood Tbk",
             subtitle: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-            imageUrl: "/images/banner_03.jpg",
+            imageUrl: "/images/image-8.jpg",
         },
     ];
 

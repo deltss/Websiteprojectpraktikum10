@@ -7,8 +7,7 @@ export default function WorkSection() {
       {/* Judul */}
       <div className="row mb-3">
         <div className="col-12 text-center">
-          <h2>What We Work</h2>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem, officiis?</p>
+          <h2>KLIK JOBS DI KANAN ATAS UNTUK SELENGKAPNYA</h2>
         </div>
       </div>
 
@@ -21,9 +20,9 @@ export default function WorkSection() {
             <img src="/images/image-44.jpg" className="card-img-top" alt="image" />
 
             <div className="card-body">
-              <h5 className="card-title">Rice with wild boar liver</h5>
+              <h5 className="card-title">Gaji Tinggi</h5>
               <p className="card-text">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam sunt veritatis voluptas explicabo sapiente.
+                Berbagai Pekerjaan menarik dengan gaji tinggi.
               </p>
               <a href="#" className="btn btn-primary">Read More</a>
             </div>
@@ -36,9 +35,9 @@ export default function WorkSection() {
             <img src="/images/image-45.jpg" className="card-img-top" alt="image" />
 
             <div className="card-body">
-              <h5 className="card-title">Another Food Example</h5>
+              <h5 className="card-title">Lingkungan Kerja menyenangkan</h5>
               <p className="card-text">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam sunt veritatis voluptas explicabo sapiente.
+                Lingkungan kerja yang baik dapat membuat anda berkembang dan terhindar dari stress
               </p>
               <a href="#" className="btn btn-primary">Read More</a>
             </div>
