@@ -16,57 +16,57 @@ export default function JobList() {
   const jobs: Job[] = [
     {
       id: 1,
-      title: "Senior Web Developer",
+      title: "Astronout",
       location: "Jakarta Pusat",
       type: "Full Time",
-      salary: "Rp 12.000.000 - Rp 18.000.000",
-      description: "We are looking for an experienced web developer to join our dynamic team. Must have 3+ years experience in React and Node.js.",
-      image: "/images/image-45.png"
+      salary: "Rp 200.000.000 - Rp 500.000.000",
+      description: "We are looking for an experienced Astronout that can go to the moon with us",
+      image: "/images/image-4.jpeg"
     },
     {
       id: 2,
-      title: "Marketing Manager",
+      title: "Pengantar Pizza",
       location: "Jakarta Selatan",
       type: "Full Time",
       salary: "Rp 10.000.000 - Rp 15.000.000",
-      description: "Seeking a creative marketing manager to develop and execute marketing strategies. Experience in digital marketing required.",
-      image: "/images/image-46.png"
+      description: "Mengantar Pizza Untuk Daerah Jabodetabek tapi motor sendiri ya.",
+      image: "/images/image-3.jpeg"
     },
     {
       id: 3,
-      title: "Graphic Designer",
+      title: "Doctor",
       location: "Jakarta Barat",
       type: "Contract",
-      salary: "Rp 7.000.000 - Rp 10.000.000",
-      description: "Looking for talented graphic designer proficient in Adobe Creative Suite. Portfolio required.",
-      image: "/images/image-47.png"
+      salary: "Rp 29.000.000 - Rp 70.000.000",
+      description: "Looking for talented Doctor who can fix all kind of disease in the world .",
+      image: "/images/image-5.jpeg"
     },
     {
       id: 4,
-      title: "Data Analyst",
+      title: "Polisi",
       location: "Jakarta Timur",
       type: "Full Time",
       salary: "Rp 9.000.000 - Rp 14.000.000",
-      description: "Join our data team to analyze business metrics and provide insights. SQL and Python skills required.",
-      image: "/images/image-48.png"
+      description: "Join Tim Kepolisian kami di Jakarta Timur.",
+      image: "/images/images-2.jpeg"
     },
     {
       id: 5,
-      title: "Content Writer",
+      title: "Perawat",
       location: "Jakarta Utara",
       type: "Part Time",
       salary: "Rp 5.000.000 - Rp 8.000.000",
-      description: "Creative writer needed to produce engaging content for our digital platforms. SEO knowledge is a plus.",
-      image: "/images/image-49.png"
+      description: "Menjadi Perawat di rumah sakit siloam.",
+      image: "/images/image-1.jpeg"
     },
     {
       id: 6,
-      title: "Project Manager",
+      title: "Pengendali Market Dunia",
       location: "Jakarta Pusat",
       type: "Full Time",
-      salary: "Rp 15.000.000 - Rp 22.000.000",
-      description: "Experienced PM to lead cross-functional teams and deliver projects on time. PMP certification preferred.",
-      image: "/images/image-44.jpg"
+      salary: "Rp 100.000.000 - Rp 10.000.000.000",
+      description: "Berpengalaman menjadi pemimpin dunia dan siang mengguncangkan semua market yang ada di dunia.",
+      image: "/images/marketmaker.jpg"
     }
   ];
 

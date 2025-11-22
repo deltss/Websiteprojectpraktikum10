@@ -8,7 +8,7 @@ function ContactSection() {
                 <Col md={12} className="mb-3">
                     <Card className="text-center p-4">
                         <h2>Contact Us</h2>
-                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
+                        <p>Untuk Melihat Pekerjaan yang ditawarkan, silahkan mengunjungi tombol Jobs di kanan atas.</p>
                         <Form className="mt-3 p-4 text-start">
                             <Form.Group className="mb-3" controlId="formName">
                                 <Form.Label>Name</Form.Label>
